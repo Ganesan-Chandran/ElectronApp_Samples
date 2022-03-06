@@ -1,0 +1,16 @@
+{
+  "name": "sample-electron-app",
+  "version": "1.0.0",
+  "description": "Sample electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^13.1.7",
+    "electron-builder": "^22.11.7"
+  }
+}
